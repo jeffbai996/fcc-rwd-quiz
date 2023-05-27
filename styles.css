@@ -80,8 +80,12 @@ h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
-  margin-top: 0;
+  margin-top: 0px;
   padding-top: 60px;
+}
+
+.info {
+  padding: 5px 0 0 5px;
 }
 
 p::before {
