@@ -1,3 +1,5 @@
+
+
 body {
   background: #f5f6f7;
   color: #1b1b32;
@@ -156,10 +158,15 @@ footer {
   justify-content: center;
 }
 
-footer, footer a {
+footer,
+footer a {
   color: #dfdfe2;
 }
 
+address {
+  text-align: center;
+  padding: 0.3em;
+}
 
 .sr-only {
   position: absolute;
